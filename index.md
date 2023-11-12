@@ -9,3 +9,4 @@ On this blog I will mainly write a bit about my project [railblocks](https://git
 ## Blog Posts
 
 [#1 - Motivation](/posts/p1.md)
+[#2 - Understanding the Color in Game Boy Color](/posts/p2.md)
