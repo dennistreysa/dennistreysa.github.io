@@ -8,3 +8,5 @@ layout: default
 [#1 - Motivation](/posts/p1)
 
 [#2 - Understanding the Color in Game Boy Color](/posts/p2)
+
+[#3 - Interrupts](/posts/p3)
